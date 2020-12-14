@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bcdc434-ce55-4a49-89a1-741f5a52a96b" name="Default Changelist" comment="input smtp information">
-      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +169,7 @@
       <workItem from="1604920426802" duration="261000" />
       <workItem from="1604977306940" duration="1000" />
       <workItem from="1605161561255" duration="2192000" />
-      <workItem from="1607933858251" duration="279000" />
+      <workItem from="1607933858251" duration="384000" />
     </task>
     <task id="LOCAL-00001" summary="input smtp information">
       <created>1607933991444</created>
@@ -177,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607933991444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change mysql version">
+      <created>1607934213943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607934213943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +205,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="input smtp information" />
-    <option name="LAST_COMMIT_MESSAGE" value="input smtp information" />
+    <MESSAGE value="change mysql version" />
+    <option name="LAST_COMMIT_MESSAGE" value="change mysql version" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="99" key="CommitChangelistDialog2" timestamp="1607934213751">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="417" y="99" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1607934213751" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1607934227144">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1607934227144" />
+    <state x="538" y="280" width="604" height="490" key="find.popup" timestamp="1607934188051">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="280" width="604" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1607934188051" />
   </component>
 </project>
