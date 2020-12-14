@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcdc434-ce55-4a49-89a1-741f5a52a96b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2bcdc434-ce55-4a49-89a1-741f5a52a96b" name="Default Changelist" comment="input smtp information">
+      <change beforePath="$PROJECT_DIR$/vhr-server/vhr-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhr-server/vhr-web/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +168,16 @@
       <workItem from="1604920426802" duration="261000" />
       <workItem from="1604977306940" duration="1000" />
       <workItem from="1605161561255" duration="2192000" />
+      <workItem from="1607933858251" duration="279000" />
     </task>
+    <task id="LOCAL-00001" summary="input smtp information">
+      <created>1607933991444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607933991444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,5 +194,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="input smtp information" />
+    <option name="LAST_COMMIT_MESSAGE" value="input smtp information" />
   </component>
 </project>
